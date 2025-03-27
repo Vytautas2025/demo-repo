@@ -4,4 +4,8 @@ Some description!
 
 ## Subfolder
 
-Watch tutorial on Youtubegit add and learn how to use GitHub and Git
+Watch tutorial on Youtube
+
+## Local Development
+
+1. Open index.html in your browser
